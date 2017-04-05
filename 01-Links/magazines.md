@@ -1,3 +1,3 @@
 # Magazines
 
-* [Smashing Magazine] (http://www.smashingmagazine.com)
+* [Smashing Magazine](http://www.smashingmagazine.com)
