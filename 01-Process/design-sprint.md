@@ -6,3 +6,7 @@ A Product Design Sprint is a technique to quickly design, prototype, and test th
 
 * [Thoughtbot Guide](https://thoughtbot.com/product-design-sprint/guide)
 * [Thoughtbot Guide on GitHub](https://github.com/thoughtbot/design-sprint)
+
+### Video
+
+* [Google I/O Design Sprint Talk](https://www.youtube.com/watch?v=aWQUSiOZ0x8)
