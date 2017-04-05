@@ -1,2 +1,2 @@
 Links
-* Magazines
+#Magazines
