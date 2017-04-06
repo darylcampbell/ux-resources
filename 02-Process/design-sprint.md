@@ -16,6 +16,7 @@ Based on a 5 day process covering the following:
 
 * [Thoughtbot Guide](https://thoughtbot.com/product-design-sprint/guide)
 * [Thoughtbot Guide on GitHub](https://github.com/thoughtbot/design-sprint)
+* [Google's method as explained by Interaction Design](https://www.interaction-design.org/literature/article/make-your-ux-design-process-agile-using-google-s-methodology)
 
 ### Video
 
