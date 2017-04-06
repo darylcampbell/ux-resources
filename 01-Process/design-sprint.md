@@ -2,6 +2,16 @@
 
 A Product Design Sprint is a technique to quickly design, prototype, and test the viability of an idea, product, or feature.
 
+## Google Design Sprint
+
+Based on a 5 day process covering the following:
+
+* Unpack
+* Sketch
+* Decide
+* Prototype
+* Test
+
 ## See the following resources
 
 * [Thoughtbot Guide](https://thoughtbot.com/product-design-sprint/guide)
