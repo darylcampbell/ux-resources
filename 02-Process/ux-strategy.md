@@ -2,8 +2,7 @@
 
 1. Discovery Phase
 
-UX Strategy = Business Strategy + Value Innovation
-+ Validated User Research + Killer UX Design.
+UX Strategy = Business Strategy + Value Innovation + Validated User Research + Killer UX Design.
 
 The output of the discovery phase should be based on empirical
 data, such as getting direct input from target users before going
