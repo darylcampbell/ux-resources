@@ -18,3 +18,5 @@ from Blank’s Customer Development manifesto, in which he challenges product fo
 
 ## Tenet 3: Validated User Research
 Lean Startup feedback loop of build-measure-learn.
+
+## Tenet 4: Killer UX Design
